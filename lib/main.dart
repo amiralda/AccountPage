@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:settings_page/edit_page.dart';
+import 'package:settings_page/donnor_page.dart';
 
 void main() => runApp(ProfilePage());
 
